@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CompatibleVersion</key>
+	<integer>1</integer>
+	<key>RawQuery</key>
+	<string>(** = "btc*"cdw)</string>
+	<key>RawQueryDict</key>
+	<dict>
+		<key>FinderFilesOnly</key>
+		<true/>
+		<key>RawQuery</key>
+		<string>(** = "btc*"cdw)</string>
+		<key>SearchScopes</key>
+		<array>
+			<string>kMDQueryScopeComputer</string>
+		</array>
+		<key>UserFilesOnly</key>
+		<true/>
+	</dict>
+	<key>SearchCriteria</key>
+	<dict>
+		<key>CurrentFolderPath</key>
+		<array>
+			<string>/Users/stumarsh/Library/Mobile Documents/com~apple~CloudDocs</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/iCloud~com~bitcoin~mwallet/Documents</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/iCloud~com~TapMediaLtd~VoiceRecorderFREE/Documents</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/com~apple~TextEdit/Documents</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/com~apple~Preview/Documents</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/com~apple~Pages/Documents</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/com~apple~Numbers/Documents</string>
+			<string>/Users/stumarsh/Documents</string>
+			<string>/Users/stumarsh/Desktop</string>
+			<string>/Users/stumarsh/Library/Mobile Documents/X6B29J8D22~com~savysoda~documents/Documents</string>
+		</array>
+		<key>FXCriteriaSlices</key>
+		<array>
+			<dict>
+				<key>criteria</key>
+				<array>
+					<string>com_apple_UserSearchStringAttribute</string>
+					<integer>104</integer>
+				</array>
+				<key>displayValues</key>
+				<array>
+					<string>Items matching text</string>
+					<string>btc</string>
+				</array>
+				<key>rowType</key>
+				<integer>0</integer>
+				<key>subrows</key>
+				<array/>
+			</dict>
+		</array>
+		<key>FXScope</key>
+		<integer>1396925814</integer>
+		<key>FXScopeArrayOfPaths</key>
+		<array>
+			<string>kMDQueryScopeComputer</string>
+		</array>
+	</dict>
+	<key>SuggestedAttributes</key>
+	<array/>
+	<key>ViewSettings</key>
+	<dict>
+		<key>WindowState</key>
+		<dict>
+			<key>ContainerShowSidebar</key>
+			<true/>
+			<key>ShowSidebar</key>
+			<true/>
+			<key>ShowStatusBar</key>
+			<false/>
+			<key>ShowTabView</key>
+			<false/>
+			<key>ShowToolbar</key>
+			<true/>
+			<key>WindowBounds</key>
+			<string>{{246, 204}, {920, 555}}</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
